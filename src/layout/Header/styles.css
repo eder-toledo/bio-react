@@ -1,0 +1,14 @@
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu ul{
+    margin-right: initial;
+    margin-left: auto;
+}
