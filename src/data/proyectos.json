@@ -1,0 +1,67 @@
+[
+    {
+      "titulo": "Web ECOSUR",
+      "descripcion": "Actualización de la página web oficial de “El Colegio de la Frontera Sur”, renovación del sitio oficial, configuración de usuarios, permisos y accesos para la edición de contenido, desarrollo de micrositios para foros y talleres; migración de contenido.",
+      "stack": ["Joomla 2.5","Wordpress"]
+    },
+    {
+      "titulo": "Red Agóra",
+      "descripcion": "Red social interna Ágora, implementación, configuración y personalización de red social interna para “El Colegio de la Frontera Sur”, generando un espacio web y aplicación móvil.",
+      "stack": ["Wordpress", "Buddypress", "Ionic"]
+    },
+    {
+      "titulo": "Geobuscador",
+      "descripcion": "Modulo “Geobuscador”, permite la búsqueda de productos a través de diferentes filtros como lugar, lugares; mostrando los resultados en un mapa.",
+      "stack": ["PHP", "Javascript", "Leaflet"]
+    },
+    {
+      "titulo": "Buscador instituciones",
+      "descripcion": "Modulo “Búsqueda de Instituciones”, permite realizar la búsqueda de Instituciones con la que han colaborado almacenadas en sus bases de datos institucionales con la finalidad ofrecer a la comunidad información de contacto.",
+      "stack": ["PHP", "Javascript"]
+    },
+    {
+      "titulo": "ECOCONSULTA",
+      "descripcion": "Apoyo en el desarrollo de la Plataforma “ECOCONSULTA”, permite a la comunidad de “El Colegio de la Frontera Sur” visualizar información de indicadores, productos, personal, alumnos entre otros.",
+      "stack": ["PHP", "Javascript", "Elasticsearch"]
+    },
+    {
+      "titulo": "Libros ECOSUR",
+      "descripcion": "Página de “Libros ECOSUR” V1, este portal permite la búsqueda y visualización de sus libros publicados, permitiendo la gestión y realización de pedidos a través de un carrito de compras.",
+      "stack": ["PHP", "Javascript"]
+    },
+    {
+      "titulo": "Proyectos MT",
+      "descripcion": "Módulos para el sistema de gestión de “Proyectos MT”, estos módulos permitían el acceso a la plataforma y el despliegue de la información sobre el estatus de evaluación de los proyectos.",
+      "stack": ["PHP", "Laravel"]
+    },
+    {
+      "titulo": "Sistema de Producción Académica",
+      "descripcion": "Módulos para el “Sistema de Producción Académica”, se realizaron diversos módulos para la gestión de información para la evaluación y seguimiento de proyectos, generación de dictámenes, integración de mapas, entre otros.",
+      "stack": ["PHP", "Laravel", "Javascript"]
+    },
+    {
+      "titulo": "Contratos y Convenios",
+      "descripcion": "Sistema para la gestión de “Contratos y Convenios”, sistema que atiende al proceso de registro, evaluación y aprobación de información relacionada con instrumentos legales relacionados a contratos y convenios.",
+      "stack": ["PHP", "Laravel", "Javascript"]
+    },
+    {
+      "titulo": "Sistema de Fideicomisos",
+      "descripcion": "Módulos para el “Sistema de Fideicomisos”, se apoyo en el desarrollo de las secciones que permitían la asignación e invitación de revisores.",
+      "stack": ["C#", "ASP .NET", "MVC", "Javascript", "Team Foundation"]
+    },
+    {
+      "titulo": "Evaluación de Aspirantes al Posgrado",
+      "descripcion": "Módulos para el sistema de “Evaluación de Aspirantes al Posgrado”, los módulos desarrollados permiten la gestión de comités de evaluación, configuración de entrevistas.",
+      "stack": ["C#", "ASP .NET", "MVC", "Javascript", "Team Foundation"]
+    },
+    {
+      "titulo": "SIGO",
+      "descripcion": "Sistema para la gestión de producción orgánica “SIGO”, plataforma para la gestión de la información generada durante el proceso de inspección de producción orgánica de Café, permitiendo el registro Offline de información y la gestión a través de una plataforma web.",
+      "stack": ["C#", "ASP .NET", "MVC", "Javascript", "Team Foundation", "ODK"]
+    },
+    {
+      "titulo": "Soil Resistivity",
+      "descripcion": "Desarrollo de las aplicaciones móviles “Soil Resistivity” y “Multiparameter”, aplicaciones móviles que realizan la conexión a través de bluetooth a un dispositivo Arduino para recibir información capturada por diversos sensores.",
+      "stack": ["Java", "Android", "Arduino"]
+    }
+  ]
